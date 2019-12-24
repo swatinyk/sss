@@ -8,8 +8,7 @@ class employee:
         print("employee no is : ",self.eno)
         print("employee name is : ",self.ename)
         print("employee salary is : ",self.esal)
-     
-
+            #####
 e=employee(20,'swati',2000)
 
 class test:

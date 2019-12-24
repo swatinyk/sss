@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="d3877860-af53-4483-928a-43de79856225" name="Default Changelist" comment="" />
+=======
     <list default="true" id="d3877860-af53-4483-928a-43de79856225" name="Default Changelist" comment="">
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -17,6 +20,7 @@
       <change beforePath="$PROJECT_DIR$/oop3.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop3.py" afterDir="false" />
 >>>>>>> b65607b963be55b33161edc27fd9fdd94d7f33e4
     </list>
+>>>>>>> develop
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +33,10 @@
         <entry file="file://$PROJECT_DIR$/oop3.py">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
             <state relative-caret-position="391">
               <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
@@ -40,6 +48,7 @@
             <state relative-caret-position="221">
               <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
 >>>>>>> b65607b963be55b33161edc27fd9fdd94d7f33e4
+>>>>>>> develop
             </state>
           </provider>
         </entry>
@@ -56,9 +65,15 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="250" />
+=======
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
+>>>>>>> develop
     <option name="width" value="1683" />
     <option name="height" value="1017" />
   </component>
@@ -83,7 +98,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gitdemo" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,6 +148,10 @@
     <entry file="file://$PROJECT_DIR$/oop3.py">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
         <state relative-caret-position="391">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
@@ -144,6 +163,7 @@
         <state relative-caret-position="221">
           <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
 >>>>>>> b65607b963be55b33161edc27fd9fdd94d7f33e4
+>>>>>>> develop
         </state>
       </provider>
     </entry>
