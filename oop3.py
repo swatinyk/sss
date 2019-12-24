@@ -9,7 +9,6 @@ class employee:
         print("employee name is : ",self.ename)
         print("employee salary is : ",self.esal)
 
-        print("git commit2")
 
 e=employee(20,'swati',2000)
 
