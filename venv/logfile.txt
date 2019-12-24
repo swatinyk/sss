@@ -1,0 +1,29 @@
+WARNING:root:warnong
+ERROR:root:errr
+CRITICAL:root:cric
+WARNING:root:warnong
+ERROR:root:errr
+CRITICAL:root:cric
+WARNING:root:warnong
+ERROR:root:errr
+CRITICAL:root:cric
+WARNING:root:warnong
+ERROR:root:errr
+CRITICAL:root:cric
+WARNING:root:warnong
+ERROR:root:errr
+CRITICAL:root:cric
+WARNING:root:warnong
+ERROR:root:errr
+CRITICAL:root:cric
+INFO:root:cric
+WARNING:root:warnong
+ERROR:root:errr
+CRITICAL:root:cric
+INFO:root:cric
+DEBUG:root:cric
+ERROR:root:invalid literal for int() with base 10: 'u'
+Traceback (most recent call last):
+  File "C:/Users/spawar1/PycharmProjects/exception/venv/beginner_exception_handeling.py", line 6, in <module>
+    y=int(input("enter seond no"))
+ValueError: invalid literal for int() with base 10: 'u'
