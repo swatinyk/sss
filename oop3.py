@@ -8,7 +8,7 @@ class employee:
         print("employee no is : ",self.eno)
         print("employee name is : ",self.ename)
         print("employee salary is : ",self.esal)
-        #swati pawar
+     
 
 e=employee(20,'swati',2000)
 
