@@ -8,10 +8,10 @@ class employee:
         print("employee no is : ",self.eno)
         print("employee name is : ",self.ename)
         print("employee salary is : ",self.esal)
-      
+
         print("git commit2")
 
-e=employee(10,'swati',2000)
+e=employee(20,'swati',2000)
 
 class test:
     def modify(e):
